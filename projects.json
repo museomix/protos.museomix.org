@@ -1,0 +1,19 @@
+[
+	{
+		"name":"Test",
+		"team" : "Ouvre boites",
+		"museum" : "Musée de la Ville de Bruxelles",
+		"year": 2017,
+		"proto_url":"test/index.html",
+		"team_url" :  "http://www.museomix.org/editions/2015/gueret-2/prototypes/pythix",
+		"github" : "http://github.com/museomix.org"
+	},
+	{
+		"name":"Test",
+		"team" : "Ouvre boites",
+		"museum" : "Musée de la Ville de Bruxelles",
+		"year": 2017,
+		"proto_url":"http://www.museomix.org",
+		"github" : "http://github.com/museomix.org"
+	}
+]
